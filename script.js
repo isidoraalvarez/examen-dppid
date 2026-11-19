@@ -68,14 +68,14 @@
       repo: "[link repositorio]", pages: "[link GitHub Pages]", video: "", bloques: BLOQUES
     },
     {
-      id: "mimus-thenca", categoria: "objetos", titulo: "Mimus thenca", cod: "O01", anio: "2025", tipo: "madera / objeto", materiales: "madera",
+      id: "mimus-thenca", categoria: "objetos", titulo: "Mimus Thenca", cod: "O01", anio: "2025", tipo: "madera / objeto", materiales: "madera",
       carpeta: "trabajo-ave", portada: "ave.jpeg", foco: "50% 50%",
       proceso: ["ave2.jpeg", "ave3.jpeg", "ave4.jpeg", "ave-a.jpeg", "ave-b.jpeg", "ave-d.jpeg"],
       creditos: [CAMILA, DAYANA],
       repo: "[link repositorio]", pages: "[link GitHub Pages]", video: "videos portafolio/trabajo-ave/tirador.mp4", bloques: BLOQUES
     },
     {
-      id: "comedero-para-perros", categoria: "objetos", titulo: "Comedero para perros", cod: "O02", anio: "2025", tipo: "objeto / madera", materiales: "madera",
+      id: "comedero-para-Mascotas", categoria: "objetos", titulo: "Comedero para Mascotas", cod: "O02", anio: "2025", tipo: "objeto / madera", materiales: "madera",
       carpeta: "trabajo-comedero", portada: "comedero3.jpeg", foco: "50% 50%",
       proceso: ["comedero4.jpeg", "comedero2.jpeg", "comedero.jpeg", "comedero5.jpeg"],
       creditos: [],
