@@ -54,28 +54,28 @@
       repo: "[link repositorio]", pages: "[link GitHub Pages]", video: "videos portafolio/trabajo-tostadorainestable/tostadora.mp4", bloques: BLOQUES
     },
     {
-      id: "chair-ele", categoria: "objetos", titulo: "Chair Ele", cod: "M01", anio: "2025", tipo: "mobiliario / réplica", materiales: "madera",
+      id: "Chair-ele", categoria: "objetos", titulo: "Chair Ele", cod: "M01", anio: "2025", tipo: "mobiliario / réplica", materiales: "madera",
       carpeta: "trabajo-silla", portada: "silla.jpeg", foco: "50% 50%",
       proceso: ["silla-a.jpeg", "silla-b.jpeg", "silla-d.jpeg", "silla-f.jpeg", "silla-g.jpeg", "silla-g.jpg", "silla-h.jpeg"],
       creditos: [ANN], notaCreditos: "Réplica de una silla diseñada por Ann Demeulemeester. El diseño original le pertenece a ella.",
       repo: "[link repositorio]", pages: "[link GitHub Pages]", video: "videos portafolio/trabajo-silla/silla.mp4", bloques: BLOQUES
     },
     {
-      id: "banca-estructural", categoria: "objetos", titulo: "Banca estructural", cod: "M02", anio: "2025", tipo: "mobiliario", materiales: "madera",
+      id: "Banca-estructural", categoria: "objetos", titulo: "Banca estructural", cod: "M02", anio: "2025", tipo: "mobiliario", materiales: "madera",
       carpeta: "trabajo-banca", portada: "banca.jpeg", foco: "50% 50%",
       proceso: ["banca2.jpeg", "plano_banca.jpeg", "banca-a.jpeg", "banca-b.jpeg", "banca-d.jpeg", "banca-e.jpeg", "banca-f.jpeg", "banca-g.jpeg", "banca-i.jpeg", "banca-j.png"],
       creditos: [CAMILA, DAYANA],
       repo: "[link repositorio]", pages: "[link GitHub Pages]", video: "", bloques: BLOQUES
     },
     {
-      id: "mimus-thenca", categoria: "objetos", titulo: "Mimus Thenca", cod: "O01", anio: "2025", tipo: "madera / objeto", materiales: "madera",
+      id: "Mimus-Thenca", categoria: "objetos", titulo: "Mimus Thenca", cod: "O01", anio: "2025", tipo: "madera / objeto", materiales: "madera",
       carpeta: "trabajo-ave", portada: "ave.jpeg", foco: "50% 50%",
       proceso: ["ave2.jpeg", "ave3.jpeg", "ave4.jpeg", "ave-a.jpeg", "ave-b.jpeg", "ave-d.jpeg"],
       creditos: [CAMILA, DAYANA],
       repo: "[link repositorio]", pages: "[link GitHub Pages]", video: "videos portafolio/trabajo-ave/tirador.mp4", bloques: BLOQUES
     },
     {
-      id: "comedero-para-Mascotas", categoria: "objetos", titulo: "Comedero para Mascotas", cod: "O02", anio: "2025", tipo: "objeto / madera", materiales: "madera",
+      id: "Comedero-para-Mascotas", categoria: "objetos", titulo: "Comedero para Mascotas", cod: "O02", anio: "2025", tipo: "objeto / madera", materiales: "madera",
       carpeta: "trabajo-comedero", portada: "comedero3.jpeg", foco: "50% 50%",
       proceso: ["comedero4.jpeg", "comedero2.jpeg", "comedero.jpeg", "comedero5.jpeg"],
       creditos: [],
