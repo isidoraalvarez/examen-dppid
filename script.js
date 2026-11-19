@@ -780,21 +780,13 @@
   function indice() {
     var lista = $("#indice");
     if (!lista) return;
-    var categoriaActual = null;
     lista.innerHTML = PROYECTOS.map(function (p, i) {
-      var grupo = "";
-      if (p.categoria !== categoriaActual) {
-        categoriaActual = p.categoria;
-        var cat = CATEGORIAS[ordenCategoria(p.categoria)];
-        var cuantos = PROYECTOS.filter(function (q) { return q.categoria === p.categoria; }).length;
-        grupo = '<li class="indice__grupo" aria-hidden="true"><span class="indice__grupo-nombre">' + esc(cat ? cat[1] : p.categoria) +
-                '</span><span class="indice__grupo-total">' + dosDigitos(cuantos) + "</span></li>";
-      }
-      return grupo + '<li class="indice__item">' +
+      var cat = CATEGORIAS[ordenCategoria(p.categoria)];
+      return '<li class="indice__item">' +
         '<a class="indice__fila" href="#proyecto/' + p.id + '" data-id="' + p.id + '">' +
           '<span class="indice__num mono">' + dosDigitos(i + 1) + "</span>" +
           '<span class="indice__titulo">' + esc(p.titulo) + "</span>" +
-          '<span class="indice__tipo mono">' + esc(p.tipo) + "</span>" +
+          '<span class="indice__tipo mono">' + esc(cat ? cat[1] : p.categoria) + "</span>" +
           '<span class="indice__anio mono">' + esc(p.anio) + "</span>" +
           '<span class="indice__abrir" aria-hidden="true">abrir ↗</span>' +
         "</a></li>";
