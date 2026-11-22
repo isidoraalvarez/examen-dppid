@@ -1,53 +1,33 @@
-# Portafolio — Isidora Álvarez
+# Bitácora Isidora Álvarez
 
-En mi portafolio veras los trabajos que he hecho durante la carrera de Diseño Industrial y, a través de ellos, cuenta cómo he ido creciendo como diseñadora.
-
-Siempre me ha gustado fabricar cosas con las manos. en mi primer año de carrera empece trabajando en lo conceptual como llevar a cambo ideas mezclar conceptos poco a poco empece a meterme en el trabajo manual, ya en mi segundo año empece fuerte con el trabajo en  madera, armando sillas, bancas y objetos que se pueden tocar y usar, como la Chair Ele, la Banca estructural, el Banquito zapatero y Mimus Thenca, una tenca chilena que mueve las alas al jalar de su tirador. en mi tercer año me encontré con la electrónica y descubrí lo entretenido que es hacer sonar algo que una misma construyó, como el Sin-te o la Tostadora inestable. Y en estos ultimos meses llegué a la web, donde aprendí que lo digital también se puede sentir, con proyectos como Multirealidades y Contrapresión.
-
-Cada trabajo me enseñó algo y me llevó al siguiente. Este portafolio es mi forma de mostrar ese camino, lo que me gusta y lo que me mueve a diseñar, que al final es crear cosas que se usan y se habitan.
+## 1. Links
 
 | | Link |
 |---|---|
-| Sitio publicado | [isidoraalvarez.github.io/examen-dppid](https://isidoraalvarez.github.io/examen-dppid/) |
-| Repositorio | [github.com/isidoraalvarez/examen-dppid](https://github.com/isidoraalvarez/examen-dppid) |
-| Figma | [Portafolio-Isidora-Alvarez](https://www.figma.com/design/ADbrbFWVOeJkBakvKcFPj6/Portafolio-Isidora-Alvarez)|
+| Figma | [Portafolio-Isidora-Alvarez](https://www.figma.com/design/ADbrbFWVOeJkBakvKcFPj6/Portafolio-Isidora-Alvarez) |
+| Sitio en GitHub Pages | [isidoraalvarez.github.io/portafolio](https://isidoraalvarez.github.io/portafolio/) |
+| Repositorio | [github.com/isidoraalvarez/portafolio](https://github.com/isidoraalvarez/portafolio) |
 
 ---
 
-## 1. Diseño
+## Portafolio 
 
-### Concepto
+En mi portafolio verás los trabajos que he hecho durante la carrera de Diseño Industrial y, a través de ellos, cuento cómo he ido creciendo como diseñadora.
 
-El portafolio mezcla el **pixel art** con dos fotos mías que uso de fondo, una playa en la portada y el corte de un tronco en trabajos. A las dos les apliqué un filtro con los colores de mi paleta y una opacidad baja. Encima van los títulos en cursiva pixelada y mi avatar en pixel art. Lo que une todo es la grilla de píxeles y una paleta suave de tonos azules, celeste y beige sobre fondo blanco, con mucho aire para que los trabajos sean los protagonistas.
+Siempre me ha gustado fabricar cosas con las manos. En mi primer año de carrera empecé trabajando en lo conceptual, como llevar a cabo ideas y mezclar conceptos. Poco a poco empecé a meterme en el trabajo manual; ya en mi segundo año empecé fuerte con el trabajo en madera, armando sillas, bancas y objetos que se pueden tocar y usar, como la Chair Ele, la Banca estructural, el Banquito zapatero y Mimus Thenca, una tenca chilena que mueve las alas al jalar de su tirador. En mi tercer año me encontré con la electrónica y descubrí lo entretenido que es hacer sonar algo que una misma construyó, como el Sin-te o la Tostadora inestable. Y en estos últimos meses llegué a la web, donde aprendí que lo digital también se puede sentir, con proyectos como Multirealidades y Contrapresión.
 
-Todo está en un solo archivo, "index.html", pero se recorre como si fueran páginas separadas. Al entrar lo primero que se ve es la portada, con el título dinámico "hola, diseño para lo que se *usa / habita*", mi avatar y la foto pixelada de la playa de fondo. Desde ahí, el botón "ver trabajos" o el menú llevan a los **trabajos**, una lista de los 11 proyectos ordenados por categoría (electrónica, web y diseño de objetos) y por año. Al pasar el cursor por el nombre de un trabajo aparece la foto del proyecto, y al hacer clic se abre su ficha con su descripción, y con imágenes y videos que muestran su proceso. El botón "sobre mí" lleva a la sección con mi presentación, herramientas y trayectoria. El contacto está siempre al final de cada vista.
+Cada trabajo me enseñó algo y me llevó al siguiente. Este portafolio es mi forma de mostrar ese camino, lo que me gusta y lo que me mueve a diseñar, que al final es crear cosas que se usan y se habitan.
 
-En la portada tengo la frase "diseño para lo que se usa" o "diseño para lo que se habita". Elegí esas dos palabras porque así es como yo pienso que es la mejor forma de describir lo que hago.
-- ***usa*.** El diseño como algo funcional, pensado para el uso diario, tanto en los objetos (el Comedero para Mascotas, el Banquito zapatero) como en las interfaces web.
-- ***habita*.** Los objetos y espacios donde se vive, como el mobiliario (la Chair Ele, la Banca estructural), y también las experiencias digitales donde uno entra y se queda.
+---
 
-### Decisiones de diseño
-
-| Decisión | Por qué |
+| Página | Contenido |
 |---|---|
-| **Portada primero y secciones que se abren con botones** | Al entrar solo se ve la portada, trabajos y Sobre mí aparecen al apretar sus respectivos botones, como páginas separadas. Así la página no se siente tan sobrecargada y se entiende que hay que entrar a cada sección. |
-| **Fotos propias de fondo, con filtro de la paleta y suaves** | La playa (pixelada) en la portada y el tronco en "trabajos" acompañan sin opacar el texto. Además hacen que la página se sienta más mía, porque son momentos bonitos de mi vida. |
-| **Títulos en cursiva pixelada** | Inspirada en la estética de píxeles, que va con mis gustos. Es una letra cursiva hecha con píxeles, igual que el resto del sitio. <img width="707" height="190" alt="image" src="https://github.com/user-attachments/assets/20c35c0b-a778-4517-ad87-3c3fcd78c7db" />|
-| **Portada simple** | Solo el titular, una descripción corta, los botones y yo como un avatar, para que se entienda rápido de qué se trata el portafolio. |
-| **Menú a la izquierda, con botones grandes** | Los trabajos, sobre mí y contacto van junto al logo, como botones para que se note que hay que entrar a cada sección. |
-| **Lista de trabajos que se abre con la foto** | Cada trabajo aparece como una franja con bordes redondeados y su nombre y, al pasar el cursor, se abre y muestra su foto. Así la lista se mantiene limpia aunque sean 11 proyectos. |
-| **Trabajos ordenados por categoría y año** | Electrónica, web y diseño de objetos, dentro de cada categoría, del más reciente al más antiguo. Al lado del nombre de cada trabajo aparece su categoría y su año. |
-| **Cada proyecto se abre en un panel sobre el índice** | Permite volver al índice sin perder el lugar. |
-| **Tonos de azul sobre blanco** | Elegí una paleta suave de azules, celeste y beige sobre fondo blanco, para que la página no se sienta tan cargada y los trabajos se lean bien. <img width="927" height="152" alt="image" src="https://github.com/user-attachments/assets/2450ab81-8100-40bd-a618-3bea0f8335c8" /> |
-| **Avatar en pixel art** en la portada | Me presenta de forma propia y cercana, con mis rasgos y mi ropa, sin usar una foto. |
-| **Fotos de proceso completas** | La foto abierta toma su propia proporción, así se ve entera.|
-| **Detalle de naturaleza** | Me gusta mucho fotografiar la naturaleza y siento que me representa, así que agregué un árbol pixelado muy suave de fondo. |
-| **Proceso de cada proyecto** | Al abrir un trabajo aparecen directo las fotos de proceso. Debajo de las imágenes van las casillas de la ficha (año, tipo y materiales o recursos utilizados), los links, la descripción, sus respectivos créditos y un video de proceso o resultado final. |
-| **Diseño responsive** | Todo se adapta al celular sin scroll lateral, toda la página se ajusta al ancho de la pantalla. |
+| `index.html` | Portada con el titular dinámico, mi avatar y una foto mía de fondo. Desde ahí se entra a los trabajos, una lista de los 12 proyectos (Sin-te, Tostadora inestable, Multirealidades, Traductor de bits, Contrapresión, Diseño Abierto, Banquito zapatero, Chair Ele, Banca estructural, Mimus Thenca, Comedero para Mascotas y Lámpara) con filtros y la ficha de cada uno, y al contacto |
+| `sobre-mi.html` | Sobre mí, herramientas, trayectoria y contacto |
 
-### Tipografías
+La página está hecha con HTML, CSS y JavaScript. Las dos páginas comparten el diseño (`style.css`) y las animaciones (`script.js`). Las fotos están en la carpeta [imagenes](imagenes/) y los videos en [videos portafolio](videos%20portafolio/).
 
-Uso cuatro tipografías, todas de Google Fonts con licencia SIL Open Font License 1.1.
+### **Tipografías.** El sitio usa cuatro tipografías, todas de Google Fonts con licencia SIL Open Font License 1.1.
 
 | Tipografía | Dónde la uso |
 |---|---|
@@ -55,139 +35,183 @@ Uso cuatro tipografías, todas de Google Fonts con licencia SIL Open Font Licens
 | [Pixelify Sans](https://fonts.google.com/specimen/Pixelify+Sans) | Logo, botones, número de cada trabajo en el índice, herramientas de software y enlaces del contacto |
 | [DM Mono](https://fonts.google.com/specimen/DM+Mono) | Menú, reloj, etiquetas y categorías. Dentro de cada proyecto es la única tipografía (ficha, descripción, créditos y botones) |
 | [DM Sans](https://fonts.google.com/specimen/DM+Sans) | Textos de lectura, como la presentación de la portada, la bio y la trayectoria |
+| <img width="537" height="760" alt="image" src="https://github.com/user-attachments/assets/bc996875-3d3f-4ee0-898a-648fa1536eeb" /> |
 
-Para la cursiva pixelada comparé varias cursivas convertidas en píxeles y me quedé con Dancing Script, porque es la que mejor se lee al pixelarla.
+### **Paleta.** Fondo blanco con tonos de azul, celeste y beige, a partir de una paleta de referencia que me gustó. Le da más blanco y aire a la página.
 
-<img width="537" height="760" alt="image" src="https://github.com/user-attachments/assets/bc996875-3d3f-4ee0-898a-648fa1536eeb" />
+| Color | Hex | Dónde lo uso |
+|---|---|---|
+| Azul petróleo | `#567C8D` | Títulos en cursiva pixelada, etiquetas, trama de las fotos y el árbol pixelado |
+| Azul marino | `#2F4156` | Textos y botón principal |
+| Celeste | `#C8D9E6` | Manchas del fondo, líneas y hover del índice |
+| Beige | `#F5EFEB` | Paneles y pie de página |
+| Blanco | `#FFFFFF` | Fondo de la página |
+| <img width="1007" height="80" alt="image" src="https://github.com/user-attachments/assets/fbd164ea-adf8-4ed3-a5fd-512df1b7dc7a" /> |
 
+---
 
-### Paleta de colores
+## 2. Registro por avance
 
-Fondo blanco con **azul marino** para los textos y **azul petróleo** para los títulos pixelados, más celeste y beige como apoyo. La tomé de una paleta de referencia que me gustó y le da más blanco y aire a la página.
+### Avance 1 (9 de noviembre)
 
-| Color | Hex | Variable en `style.css` | Dónde lo uso |
-|---|---|---|---|
-| **Azul petróleo** | `#567C8D` | `--pixel` y `--acero` | Títulos en cursiva pixelada, etiquetas, trama de las fotos y el árbol pixelado |
-| Azul marino | `#2F4156` | `--oxford` | Textos y botón principal |
-| Celeste | `#C8D9E6` | `--escarcha`, `--celeste` y `--lavanda` | Manchas del fondo, líneas y hover del índice |
-| Beige | `#F5EFEB` | `--luna` | Paneles y pie de página |
-| Blanco | `#FFFFFF` | `--papel` | Fondo de la página |
+**Qué presenté.**
+- Para esta entrega presenté la primera versión que tenía, que seguía una estética de estampillas con una paleta de colores grises y azules. La página era solo una y todo se veía de corrido; las estampillas estaban en 3 columnas y la página se alargaba mucho.
 
-<img width="1007" height="80" alt="image" src="https://github.com/user-attachments/assets/fbd164ea-adf8-4ed3-a5fd-512df1b7dc7a" />
-
-### Elementos gráficos
-
-| Elemento | Cómo es |
+| versión 1 | versión 1 |
 |---|---|
-| **Paneles** | Los bloques de información son paneles claros con una línea fina arriba y su nombre, como "herramientas — software" o "trayectoria". |
-| **Fondo de la portada** | Una foto que saqué yo de una playa, pixelada en cuadros grandes, con un filtro de los colores de la paleta y opacidad baja para que no opaque el texto. Encima solo van el título y mi avatar. |
-| **Barra de navegación** | Botones grandes con borde, para que se note que hay que entrar a cada sección. En el celular quedan en una segunda fila. |
-| **Secciones como páginas** | Al entrar se ve solo la portada. Trabajos y Sobre mí aparecen al apretar sus botones. |
-| **Lista de trabajos** | Cada trabajo muestra su nombre y, al pasar el cursor, se abre y aparece una foto del proyecto. Está basada en un componente de Skiper UI. |
-| **Fondo de trabajos** | Una foto mía de un tronco, con los colores de la paleta y muy suave. |
-| **Árbol pixelado** | Un árbol pixelado muy suave detrás de trabajos y del pie de página, como un detalle de naturaleza. |
-| **Avatar** | Le pedí a la IA que me ayudara a crear mi avatar en pixel art a partir de mis fotos y a animarlo. Tiene mi pelo largo negro y mi ropa, y respira, parpadea, saluda y mira hacia el cursor. |
-| **Íconos de herramientas** | Cada programa tiene un ícono con sus iniciales, por ejemplo Ai para Illustrator, ordenados por tipo de programa. |
+| <img width="530" height="632" alt="image" src="https://github.com/user-attachments/assets/27fd91c6-9a0b-4086-97a9-eb2772a9d48b" /> | <img width="327" height="461" alt="image" src="https://github.com/user-attachments/assets/40b46df2-7a01-42b2-aa62-6c3c729d76d2" /> |
+
+- **Comentarios recibidos.**
+  - Mover la sección "Sobre mí" al final de la página.
+  - Asegurar que el diseño y los componentes se mantuvieran al exportar la página como PDF.
+- **Qué cambié después.**
+  - Moví "Sobre mí" al final. Ahora el sitio parte con la portada, sigue directo con los trabajos y cierra con "Sobre mí" y el contacto. Así quien visita ve primero los proyectos y conoce a la autora después.
+  - **No apliqué** la sugerencia del PDF. El encargo pide un sitio interactivo publicado en GitHub Pages, y un PDF no puede mostrar las ventanas que se arrastran, el titular que cambia de palabra ni las transiciones. Preferí dedicar el tiempo a que la experiencia funcione bien en desktop y en mobile.
+  - Hice una **versión 2** con una estética más Y2K, con ventanas flotantes con barra de título, un dock para navegar y etiquetas redondeadas. Mantuve las estampillas de los proyectos en una sola fila con scroll horizontal.
+
+### Avance 2 (16 de noviembre)
+
+**Qué presenté.**
+- Para esta entrega presenté la tercera versión que tenía. Había mantenido la estética de estampillas con una paleta de colores con más azules y el gris pasó a segundo plano; la página seguía siendo solo una y se veía de corrido, las estampillas las modifiqué y las dejé en una sola columna y para ver los trabajos se deslizaba a la derecha como un carrusel. Ninguna de estas versiones lograba que sintiera mi esencia en ella.
+
+| versión 2 | versión 2 |
+|---|---|
+| <img width="1135" height="682" alt="image" src="https://github.com/user-attachments/assets/a7f98316-7e55-4c6e-965f-22995c56146a" />  | <img width="1137" height="678" alt="image" src="https://github.com/user-attachments/assets/b6af84a9-bfc1-4744-9f0d-56631c13e1c4" /> |
+
+- **Comentarios recibidos.**
+  - Hacer que las imágenes se adapten al tamaño del marco.
+  - Poner los créditos de los colaboradores con quienes hice cada trabajo.
+- **Qué cambié después.**
+  - **Imágenes adaptadas al marco.** Algunas fotos no calzaban con su marco, quedaban franjas grises a los lados o el objeto se veía corrido. Ahora la foto principal de cada proyecto se muestra completa en su propia proporción, y en las fotos de proceso el panel abierto toma exactamente la forma de cada foto, sin márgenes y sin recortar el objeto.
+  - **Créditos de colaboradores.** En la ficha de cada proyecto agregué el apartado de créditos con el nombre y el GitHub de mis compañeras. También acredité a Felipe Roa como creador del proyecto original de Multirealidades y a Ann Demeulemeester como autora del diseño original de la Chair Ele, que repliqué. En los proyectos que hice sola el apartado no aparece.
+
+### Después del Avance 2 
+
+Después del Avance 2, además de aplicar las correcciones, decidí cambiar mi diseño porque sentía que no me representaba. Busqué una estética más mía, con pixel art, fotos que saqué yo y una paleta de azules, y estos son los cambios que fui haciendo:
+
+- Cambié las estampillas por un **índice de trabajos** con vista previa por píxeles, porque con 12 proyectos las estampillas saturaban la pantalla.
+- Ordené los trabajos por **categoría** (electrónica, web y diseño de objetos) y por año.
+- Cada proyecto se abre en una ventana con las fotos de proceso primero y debajo la ficha (año, tipo y materiales o recursos utilizados), la descripción, los créditos y el video.
+- Agregué mi **avatar en pixel art** en la portada y un **cursor de corazón** pixelado (con ayuda de la IA).
+- Cambié la paleta con más azules de protagonistas.
+- Separé **Sobre mí en su propia página** (`sobre-mi.html`), con herramientas, trayectoria y contacto, para que el sitio tenga dos páginas enlazadas.
+- Integré un componente de la librería **Shaders.com** (DotGrid, dentro del filtro Pixelate) (con ayuda de la IA), una grilla de cuadrados que titila detrás del titular. Usé Pixelate para que los puntos fueran cuadrados, igual que el resto de la estética pixel.
+- Cambié la estética a una más editorial, tipo afiche, a partir de nuevas referencias (fotos con trama de puntos, tonos lavanda y celeste lavados, collage). Saqué las ventanas tipo sistema operativo y dejé paneles planos y translúcidos.
+- Los títulos ahora van en una **cursiva pixelada**, inspirada en la estética de píxeles, que va con mis gustos. Uso la fuente Dancing Script (Google Fonts, licencia OFL) y la convierto en píxeles cuadrados con la lógica que programé para los títulos. Primero probé con Sacramento, pero era tan fina que al pixelarla no se leía. El texto real sigue estando en la página para los lectores de pantalla.
+- En la portada agregué un **collage de fotos de mis trabajos en trama de píxeles cuadrados** (Sin-te, Chair Ele y Lámpara), generado con un script que programé a partir de las fotos (que al final terminé cambiando).
+- El fondo de la portada es una **foto mía de una playa, pixelada y con un filtro de los colores de mi paleta** (azul marino en las sombras, azul petróleo en los tonos medios, y celeste y beige en las partes claras), con opacidad baja para que acompañe sin competir con el texto. La pixela el componente Pixelate de Shaders.com, y programé una versión equivalente en CSS como respaldo si el navegador no soporta WebGPU. Dejé solo la foto, el titular y el personaje, y saqué el collage, el árbol y la grilla para que la imagen se distinga. Antes probé dibujar la foto con letras (ASCII), pero no se reconocía.
+- El fondo de la sección de trabajos ahora es una **foto mía de un tronco**, con un filtro de los colores de la paleta y opacidad baja, en vez del fondo de cuadritos.
+- Agregué dos fotos nuevas y un segundo video a la **Tostadora inestable**. La ficha ahora puede mostrar más de un video.
+- Agrandé la **barra de navegación**. Los links ahora son botones con borde, para que se note que hay que entrar a cada sección, y en el celular quedan visibles en una segunda fila.
+- Ordené el sitio como un portafolio por secciones. Al entrar se ve **solo la portada**, y los trabajos aparecen al apretar "ver trabajos" o "trabajos" en el menú, como si fueran otra página.
+- Probé dejar el título "trabajos" fijo arriba con la lista pasando por debajo (referente effepinnastudio.com), pero tapaba los trabajos y lo saqué.
+- Agregué **filtros por categoría** sobre la lista de trabajos: todo, electrónica, web y diseño de objetos.
+- Le di **más detalle y sombras al personaje** (cejas, nariz, labios en dos tonos, mejillas, gargantilla, brillo en el pelo y pliegues en el pantalón).
+- Actualicé el Figma con el diseño actual. Está ordenado según el proceso, en cinco páginas: Boceto, Wireframes, UI Kit, Desktop y Mobile. El boceto es digital y a mano alzada, y los wireframes están en grises y baja fidelidad, con notas de la interacción. El UI kit muestra juntas las cuatro tipografías y la cursiva normal al lado de su versión pixelada. Tiene las variables de color, los estilos de texto y, en su propia mesa de trabajo, los componentes con estados, todos con auto layout. El prototipo muestra inicio, sobre mí y la ficha de un proyecto en desktop y mobile, con hover en botones y links y navegación entre pantallas.
+
+**VERSIÓN ACTUAL**
+
+| Foto 1 | Foto 2 |
+|---|---|
+| <img width="823" height="723" alt="image" src="https://github.com/user-attachments/assets/63f069b3-47ec-4840-8a6b-c2e124f2c3b6" /> | <img width="370" height="662" alt="image" src="https://github.com/user-attachments/assets/45c1100c-fec8-4b39-a272-f69d5c533b49" /> |
+| Foto 3 | Foto 4 |
+| <img width="1890" height="866" alt="image" src="https://github.com/user-attachments/assets/c07b150d-62a6-44c3-a28a-b3f997cf8f27" /> | <img width="1903" height="868" alt="image" src="https://github.com/user-attachments/assets/78881c81-9fc0-48c6-9e1e-2ef4515f5a65" /> |
+| Foto 5 | Foto 6 |
+| <img width="1903" height="866" alt="image" src="https://github.com/user-attachments/assets/0b0af37f-a1f3-4b36-a94d-01f924b5787a" /> | <img width="1880" height="858" alt="image" src="https://github.com/user-attachments/assets/48f97778-eaef-4c50-b6ab-1d405041aac6" /> |
 
 ---
 
-## 2. Código, HTML, CSS, JavaScript y MQTT
+## 3. Uso de IA
 
-La página está hecha con HTML, CSS y JavaScript, en tres archivos. `index.html` tiene el contenido, `style.css` el diseño y `script.js` las animaciones y lo que pasa al hacer clic. Las fotos están en la carpeta `imagenes` y los videos en `videos portafolio`.
+**Herramientas:** Claude, como apoyo en la programación para avanzar más rápido, integrar el acordeón de fotos de proceso de cada proyecto, resolver errores al subir los archivos al repositorio y apoyar en la interactividad del componente "Fila del índice" en Figma.
 
-### HTML: estructura
+**Dónde no usé IA:** No usé IA para generar el sitio completo ni en las decisiones de diseño del portafolio (elección de trabajos, estética, paleta, estructura y contenidos). Fui programando el sitio por mi cuenta y recurriendo a Claude como apoyo puntual cuando necesitaba destrabar partes que se me complicaban, adaptar componentes de librerías externas sin React o depurar errores específicos.
 
-**Qué es.** Nos ayuda a definir qué elementos existen, como los títulos, imágenes, botones.
+| Etapa | Qué le pedí | Qué me entregó | Qué decidí yo |
+|---|---|---|---|
+| Avatar pixel art <img width="220" height="537" alt="image" src="https://github.com/user-attachments/assets/15c69e48-91fe-4dc6-ba75-903ab6c47214" /> | Que me ayudara a crear mi avatar en pixel art a partir de mis fotos y a animarlo | Una base de mi avatar dibujado en una grilla de píxeles, que respira, parpadea, mira hacia el cursor y saluda | Elegí las referencias, ajusté el código e iteré para darle más detalle y sombras en la cara, el pelo y la ropa |
+| Portada y secciones | Apoyo para estructurar que al entrar se vea solo la portada y que Trabajos y Sobre mí se abran con sus botones | Sugerencias de lógica para mostrar y ocultar las secciones como páginas | Elegí esta organización para que no se viera saturada la página y la integré en mi código |
+| Fondos | Apoyo para aplicar un filtro con los colores de mi paleta sobre mis fotos de la playa y del tronco | La lógica de filtrado y pixelado para la playa en la portada y el tronco en trabajos | Elegí mis propias fotos, definí la paleta, ajusté la opacidad y programé el respaldo en CSS |
+| Lista de trabajos <img width="1180" height="767" alt="image" src="https://github.com/user-attachments/assets/c307643e-706f-4208-9139-76acece8f68a" /> | Ayudarme a adaptar el componente Skiper 53 sin React para que al pasar el cursor por el nombre aparezca la foto | Una base en JavaScript vanilla para abrir la fila con la foto y los filtros por categoría | Integré el código en mi página, ajusté los estilos y definí que mostrara solo el nombre y la foto al pasar el cursor |
+| Figma <img width="1151" height="492" alt="image" src="https://github.com/user-attachments/assets/fe112749-925a-4530-94cc-1699a496200e" /> | Ayuda para configurar la interactividad de la fila de índice de los trabajos | Guía para armar los estados interactivos que muestran la portada del trabajo | Implementé el prototipo, corroboré que funcionara igual que la web y apliqué lo aprendido en el resto de las pantallas |
 
-**Cómo lo usé.** Cada sección del sitio es un `<section>` con su `id` (`#inicio`, `#trabajos`, `#sobre-mi`), y el menú lleva directo a cada una. La lista de trabajos queda vacía en el HTML y JavaScript la llena con los 11 proyectos.
+Importante recalcar que la IA fue un apoyo para agilizar el desarrollo: mientras iba programando, cuando alguna parte se me complicaba o el código no funcionaba como debía, le pedía que identificara el error, me explicara cuál era el problema y cómo corregirlo para aplicarlo y seguir avanzando.
 
-```html
-<section class="seccion trabajos" id="trabajos">
-  <h2 class="titulo-xl" data-puntos>trabajos</h2>
-  <div class="filtros" data-filtros>…</div>
-  <ol class="indice" id="indice" aria-label="Trabajos"></ol>
-</section>
-```
+### Creación del personaje
 
-### CSS, el diseño
+- **Prompt 1.** "Quiero crear un personaje que me represente para la portada de mi portafolio. Te paso dos fotos mías para que tome mi pelo largo negro, mi cara y mi ropa, una polera negra de malla y jeans anchos oscuros. Quiero que sea animado, que respire, parpadee, salude y apunte a mis trabajos."
+- **Prompt 2.** "No me convence el estilo de caricatura. Hazlo en pixel art, que se parezca a mí, con un contorno oscuro como en las referencias de personajes pixel art que te mando."
+- **Prompt 3.** "Mejora más mi personaje, mejorar la calidad y el funcionamiento del personaje." Elegí que tuviera más detalle y sombras.
+- **Qué me entregó.** Una base de avatar en pixel art dibujado con código (que respira, parpadea, mira hacia el cursor, saluda y habla) que fui ajustando e iterando hasta lograr una versión con más detalle (cejas, nariz, labios en dos tonos, gargantilla, brillo en el pelo y pliegues en el pantalón).
+- **Qué ajusté y por qué.**
+  - Pasé de la caricatura al pixel art porque calzaba mejor con la letra pixelada.
+  - Mantuve mi ropa real en el avatar para que se pareciera a mí.
 
-**Qué es.** CSS es el lenguaje en el que se le define la apariencia visual, como lo es la tipografía,color, espaciado.
+<img width="222" height="520" alt="image" src="https://github.com/user-attachments/assets/861ccd90-67c8-4fa6-a2bc-9cae6e90b56e" />
 
-**Cómo lo usé.** Guardé la paleta y las tipografías en **variables** dentro de `:root`, así si cambio un color se actualiza en todo el sitio.
+### Transiciones de las imágenes en la descripción de cada proyecto
 
-```css
-:root {
-  --pixel:    #567C8D;   /* azul petróleo */
-  --oxford:   #2F4156;   /* azul marino */
-  --celeste:  #C8D9E6;
-  --luna:     #F5EFEB;   /* beige */
-  --papel:    #FFFFFF;   /* blanco */
+- **Prompt 1.** "En la ficha de cada proyecto quiero que las fotos de proceso se vean como un acordeón. Al pasar el mouse o hacer clic, la foto elegida se abre a color y las demás quedan angostas y en gris, con una transición suave."
+- **Prompt 2.** "Cuando abro un proyecto desde la lista, quiero que la ventana crezca desde la fila donde hice clic, en vez de aparecer de golpe."
+- **Qué me entregó.** La base del acordeón de fotos con la transición de apertura, la animación de ventana creciendo desde la fila del índice y un ajuste para que el panel abierto tome la proporción de cada foto, que luego fui afinando en mi código.
+- **Qué ajusté y por qué.**
+  - Ajusté el código para que la foto principal de cada proyecto fuera la primera del acordeón y no se repitiera en el proceso.
 
-  --f-pixel: "Pixelify Sans", "DM Mono", monospace;
-  --f-sans:  "DM Sans", system-ui, sans-serif;
-  --f-mono:  "DM Mono", ui-monospace, monospace;
-}
+<img width="1181" height="777" alt="image" src="https://github.com/user-attachments/assets/dee44b14-6450-4309-8782-a1df1fbc2a23" />
 
-/* dentro de cada proyecto se usa una sola tipografía */
-.win--detalle, .win--detalle * { font-family: var(--f-mono) !important; }
-```
+### Lista de trabajos que muestra la foto
 
-### JavaScript, la interacción
-
-**Qué es.** 
-JavaScript es la Interactividad de la pagina, los cambios con un clic, botones que responden.
-
-**Cómo lo usé.** Los 11 proyectos están guardados como una lista de datos. Con esa lista, JavaScript arma el índice y la ventana de detalle de cada trabajo, con sus fotos, video y créditos.
-
-```js
-{
-  id: "chair-ele", categoria: "objetos", titulo: "Chair Ele", anio: "2025",
-  carpeta: "trabajo-silla", portada: "silla.jpeg",
-  proceso: ["silla-a.jpeg", "silla-b.jpeg", …],
-  creditos: [ANN], video: "videos portafolio/trabajo-silla/silla.mp4"
-}
-```
-
-### MQTT, mensajes entre el teléfono y la pantalla
-
-**Qué es.** MQTT comunica datos entre distitintos dispositivos con recursos limitados .
-
-**Para qué lo usé.** En Contrapresión cada teléfono funciona como control, el teléfono le manda a la pantalla lo que hace la persona (inclinarlo, tocarlo, soplar) y la pantalla le puede responder, por ejemplo haciéndolo vibrar. Cada partida tiene su propio código de sala, así no se mezclan los mensajes.
-
-```js
-async function conectar() {
-  base = `tacto/${sala}/${dev}`;
-  const will = { topic: `${base}/status`, payload: JSON.stringify({ online: false, name: nombre, caps: { rol } }), qos: 1, retain: true };
-  const o = await Tacto.open({ clientId: 'tel-' + dev, will });
-  client = o.client;
-  client.on('connect', () => { client.subscribe(`${base}/cmd`); publicarEstado(); });
-}
-
-const pub = (kind, obj, qos = 0, retain = false) =>
-  client && client.connected && client.publish(`${base}/${kind}`, JSON.stringify(obj), { qos, retain });
-```
+- **Prompt.** "Para la sección de trabajos quiero que aplique el código que te doy… quiero que sea el nombre del proyecto, pases el cursor y te salga la foto del proyecto." Le pasé el componente Skiper 53 de Skiper UI.
+- **Qué me entregó.** Una adaptación sin React del componente para que cada trabajo muestre su nombre y, al pasar el cursor, se abra y aparezca su foto, que integré y ajusté en mi página.
+- **Qué ajusté y por qué.** Ajusté la vista para que no se vieran las fotos de los trabajos hasta pasar el cursor, logrando que la lista quedara limpia.
 
 ---
 
-## 3. Referentes
+## 4. Problemas y soluciones
+
+| Problema | Causa | Solución |
+|---|---|---|
+| El link de GitHub Pages mostraba una página en blanco con el README | Pages publicó primero el repositorio solo con el README, antes de subir `index.html` | Subí `index.html` a la raíz y esperé el ✔ verde de Pages |
+| Después de subir cambios seguía viendo la versión antigua | El navegador guarda los archivos un tiempo (caché) | Recargué con Ctrl + F5 o abrí la página en una ventana privada |
+| Las imágenes salían cortadas o con franjas | La imagen se estiraba más que su marco y el panel tenía un ancho fijo | Ajusté el código para que la foto principal mantenga su propia proporción y para que, en el acordeón, el panel abierto tome la forma de cada foto |
+| La imagen grande desapareció de todos los proyectos | Una regla de mi código ocultaba la portada si también figuraba en la lista de proceso | La portada va primero en el acordeón y se salta en la lista de proceso |
+| El título "trabajos" se cortaba en el celular | El tamaño de letra era fijo y más ancho que la pantalla | Ajusté el cálculo del tamaño según el ancho de la pantalla |
+| GitHub no dejaba subir la carpeta `imagenes` | El navegador acepta máximo 100 archivos por subida | Saqué los videos a su propia carpeta para que `imagenes` quedara bajo 100 archivos |
+| "Commit failed, the file is too large" | Los videos juntos pesaban demasiado para una sola subida | Subí los videos en tandas, en la carpeta `videos portafolio/` |
+| El GIF de la Lámpara no se veía en la página publicada | El archivo no estaba subido a GitHub | Lo subí a `videos portafolio/trabajo-lampara/`, y programé que si un video no carga la sección se oculte |
+| El sitio tenía una sola página | Sobre mí era una sección dentro de `index.html` | Lo separé en `sobre-mi.html`, enlazada desde la navegación |
+| VS Code mostraba "1 problem" en `style.css` | `-webkit-line-clamp` sin su propiedad estándar | Agregué `line-clamp` |
+| La cursiva pixelada no se leía bien | Sacramento es una letra muy fina y al engrosarla para pixelarla se tapaban letras como la "a" y la "o" | Comparé varias cursivas convertidas en píxeles y elegí Dancing Script, que tiene trazo propio y se lee sin engrosarla |
+| La "j" de "trabajos" se cortaba | El alto de cada título era fijo y no alcanzaba para las letras con cola | Ajusté el código para medir el alto real del texto antes de pixelarlo |
+| Se cargaba una tipografía que ya no se usaba | Instrument Serif quedó en el enlace de Google Fonts después del cambio de estética | La saqué del enlace para que la página cargue más rápido |
+
+---
+
+## 5. Aprendizajes del semestre
+
+Este semestre aprendí que diseñar una interfaz se parece más a prototipar un objeto de lo que pensaba. En el pañol puedo probar, corregir y volver a cortar, y con el código pasó lo mismo: cada versión del portafolio fue un prototipo que tuve que mirar, usar y corregir. Pasar de Figma al código me obligó a pensar en cosas que en el diseño estático no aparecen, como qué pasa en el celular, cuánto demora en cargar una imagen o cómo se mueve un elemento cuando alguien lo toca.
+
+Con Multirealidades me di cuenta de que una misma cámara puede entender cosas muy distintas según cómo se programe, y que la tecnología nos deja ver información que nosotros solos no podríamos descifrar. Con Traductor de bits me quedé con la pregunta de hasta dónde se puede traducir un formato a otro, y con Contrapresión me di cuenta de que el teléfono, que usamos todos los días casi sin pensarlo, puede ser mucho más que una pantalla, y que diseñar cómo se controla algo también es diseñar cómo se siente usarlo.
+
+Documentar mis trabajos en una página web me hizo ordenar mi proceso. Elegir qué fotos mostrar, en qué orden y cómo describirlo me ayudó a entender qué es lo importante de cada pieza.
+
+---
+
+## 6. Recursos y referentes visuales
+
+### Imágenes de proceso
+
+Las fotos de proceso de cada trabajo están en la carpeta [imagenes](imagenes/), con una carpeta por trabajo, y los videos en [videos portafolio](videos%20portafolio/). En la página se ven dentro de la ficha de cada proyecto. El proceso de diseño del portafolio (boceto, wireframes, UI kit y prototipo) está en el [Figma](https://www.figma.com/design/ADbrbFWVOeJkBakvKcFPj6/Portafolio-Isidora-Alvarez).
 
 ### Referentes de diseño
 
 | Referente | Link | Qué tomé |
 |---|---|---|
-| Danilo De Marco | [link] | Composición editorial y minimalismo de autor [ajustar] |
-| Niccolò Miranda | [link] | [qué tomaste] |
-| Ollivere | [link] | Concepto de periódico, cabecera, etiquetas y jerarquía de títulos [ajustar] |
-| Thibaut Crépelle | [link] | [qué tomaste] |
-| 2xA Studio | [link] | Mostrar el proceso de cada pieza, no solo el resultado |
-| bleibtgleich | [link] | [qué tomaste] |
-| Bulbs · Simon Dupety | [link] | Inmersión y dinamismo, movimiento constante y personaje interactivo [ajustar] |
 | Bill Guo | [billguo.me](https://billguo.me) | Proyectos como colección, jerarquía tipográfica (primera etapa) |
 | Cindy Ly | [cindyly.design](https://www.cindyly.design/) | Navegación lúdica tipo escritorio y elementos arrastrables (primera etapa) |
 | Feather Computer | [feather.computer](https://feather.computer/) | Contenido ordenado como archivos en un escritorio (primera etapa) |
 | Nicolás Miranda (compañero) | [nicolas-miranda1312.github.io](https://nicolas-miranda1312.github.io/) | La organización del portafolio, con la portada primero y cada sección aparte, y los filtros de los trabajos |
 | Effepinna Studio (Fabio Pinna) | [effepinnastudio.com](https://effepinnastudio.com) | Un personaje propio como presentación |
-| Imágenes de inspiración | [autores] | Afiches pixel, fanzines con grano y retícula, contraste entre letra pixel y serif, paletas de azules, ventanas con bosque, personajes pixel art |
 
 ### Librerías de componentes y recursos web
 
@@ -206,147 +230,10 @@ const pub = (kind, obj, qos = 0, retain = false) =>
 
 ---
 
-## 4. Trabajos y con quién los hice
+## 7. Reflexión sobre la creación de mi portafolio
 
-Los trabajos están ordenados por **categoría** y, dentro de cada una, por **año** (del más reciente al más antiguo), igual que en el sitio.
+Crear un portafolio que tenga mi esencia fue más difícil de lo que pensé. No se trata solo de ordenar trabajos y elegir colores, sino de mirarme hacia adentro y preguntarme qué es lo que de verdad me gusta, qué me representa y qué quiero mostrar. En el camino probé muchas estéticas, paletas y formas de presentarme, y en cada cambio tuve que revisar si eso era realmente yo o solo algo que se veía bien.
 
-| Nº | Categoría | Trabajo | Año | Con quién lo hice | ¿Tiene video? |
-|---|---|---|---|---|---|
-| 01 | Electrónica | Sin-te | 2026 | Camila Ramirez y Dayana Pañitrur · expuesto en INÉDITO Universitario, Design Week México 2026 ([publicación](https://www.instagram.com/p/DeecHSEESYF/)) | sí |
-| 02 | Electrónica | Tostadora inestable | 2026 | Dayana Pañitrur, Carla Pino Barrios y Camila Ramirez | sí, dos |
-| 03 | Web | Multirealidades | 2026 | Dayana Pañitrur · proyecto original de Felipe Roa | sí |
-| 04 | Web | Traductor de bits | 2026 | Camila Ramirez | sí |
-| 05 | Web | Contrapresión | 2026 | Dayana Pañitrur | sí |
-| 06 | Diseño de objetos | Banquito zapatero | 2025 | Dayana Pañitrur | no |
-| 07 | Diseño de objetos | Chair Ele | 2025 | Sola · réplica de una silla de Ann Demeulemeester | sí |
-| 08 | Diseño de objetos | Banca estructural | 2025 | Camila Ramirez, Dayana Pañitrur y Jiamin Huang | no |
-| 09 | Diseño de objetos | Mimus Thenca | 2025 | Camila Ramirez, Dayana Pañitrur y Jiamin Huang | sí |
-| 10 | Diseño de objetos | Comedero para Mascotas | 2025 | Sola | no |
-| 11 | Diseño de objetos | Lámpara | 2025 | Camila Ramirez, Dayana Pañitrur y Jiamin Huang | sí, un GIF |
-
-En la ficha de cada trabajo están los GitHub de mis compañeras.
-
-**Links de los proyectos web**
-
-| Trabajo | Repositorio | Página (GitHub Pages) |
-|---|---|---|
-| Multirealidades | [github.com/isidoraalvarez/Multirealidades](https://github.com/isidoraalvarez/Multirealidades) | [isidoraalvarez.github.io/Multirealidades](https://isidoraalvarez.github.io/Multirealidades/) |
-| Traductor de bits | [github.com/isidoraalvarez/traductor-de-bits](https://github.com/isidoraalvarez/traductor-de-bits) | [isidoraalvarez.github.io/traductor-de-bits](https://isidoraalvarez.github.io/traductor-de-bits/) |
-| Contrapresión | [github.com/isidoraalvarez/contrapresion](https://github.com/isidoraalvarez/contrapresion) | [isidoraalvarez.github.io/contrapresion](https://isidoraalvarez.github.io/contrapresion/) |
-
-En el sitio, estos links aparecen como botones ("repositorio GitHub" y "ver experiencia") en la ficha de cada proyecto.
-
-- **Multirealidades.** Página web de arte y tecnología con estética Y2K / Windows XP que explora cómo la presencia y el movimiento del cuerpo pueden alterar la realidad digital a través de la cámara web. Combina tres sistemas simultáneos. OpenCV (movimiento y quietud), MediaPipe (manos y gestos) y Three.js (modelo 3D hecho en Blender).
-- **Traductor de bits.** Página web que traduce cualquier fotografía en sonido en tiempo real según el brillo, el color y la distribución de sus píxeles. El sonido se puede descargar y volver a subir para generar una imagen a partir de él, y así sucesivamente. Se controla con la mano mediante MediaPipe o con un controlador MIDI, y su estética toma los menús de la Nintendo Wii.
-- **Contrapresión.** Juego web que usa el teléfono como mando (de 2 a 4 teléfonos y una pantalla compartida, conectados por MQTT). No se puede jugar de a una persona, siempre hay un POC y al menos un ciudadano. Tres ciudadanos corren por la Alameda perseguidos por el carro lanzaaguas del POC, una institución ficticia; solo los tres escudos juntos detienen el chorro.
-
-**Diseños de otras personas**
-
-| Trabajo | Autor/a original | Detalle |
-|---|---|---|
-| Multirealidades | Felipe Roa — [github.com/fefeliperoar](https://github.com/fefeliperoar) | Es el creador del proyecto; nosotras hicimos nuestra propia versión. |
-| Chair Ele | Ann Demeulemeester | Réplica de su silla, el diseño original le pertenece a ella. |
-
-En el sitio, cada trabajo tiene su sección **"créditos"** con el rol de cada persona (colaboración, creador o diseño original) y el link a su GitHub.
-
----
-
-## 5. Créditos
-
-### Código y componentes
-
- Tomé las ideas de los referentes y las hice a mi manera, menos Shaders.com, que sí se puede usar directo.
-
-| De dónde viene | Fuente | Qué hice en el portafolio |
-|---|---|---|
-| Pixelate e ImageTexture (Shaders.com) | [shaders.com](https://shaders.com), licencia MIT | El efecto que pixela la foto de la playa en la portada |
-| Skiper 53 (Skiper UI, Gurvinder Singh) | [skiper-ui.com/v1/skiper53](https://skiper-ui.com/v1/skiper53), uso libre con atribución | La lista de trabajos que se abre con la foto |
-| Acordeón de imágenes (Skiper UI y Bencho) | [skiper-ui.com](https://skiper-ui.com) · [bencho.dev](https://bencho.dev) | Las fotos de proceso dentro de cada proyecto |
-| Matrix Trail (Aceternity UI) | [ui.aceternity.com](https://ui.aceternity.com) | El rastro de píxeles que sigue al cursor |
-| Motion Primitives | [motion-primitives.com](https://motion-primitives.com) | El desenfoque de la palabra que cambia en el titular |
-
-### Imágenes y videos
-
-Las fotos de los proyectos están en la carpeta [imagenes](imagenes/), con una carpeta por trabajo, y los videos en [videos portafolio](videos%20portafolio/). Son fotos y videos tomados por mí y por mis compañeras de equipo. Las fotos de fondo (la playa y el tronco) son mías.
-
-**Sonidos.** Este portafolio no usa sonidos. Los sonidos de Contrapresión y de Traductor de bits están acreditados en el README de cada repositorio.
-
----
-
-## 6. Reflexión del semestre
-
-###  Aprendizajes
-
-Este semestre aprendí que diseñar una interfaz se parece más a prototipar un objeto de lo que pensaba. En el pañol puedo probar, corregir y volver a cortar, y con el código pasó lo mismo, cada versión del portafolio fue un prototipo que tuve que mirar, usar y corregir. Pasar de Figma al código me obligó a pensar en cosas que en el diseño estático no aparecen, como qué pasa en el celular, cuánto demora en cargar una imagen o cómo se mueve un elemento cuando alguien lo toca.
-
-Con Multirealidades me di cuenta de que una misma cámara puede entender cosas muy distintas según cómo se programe, y que la tecnología nos deja ver información que nosotros solos no podríamos descifrar. Con Traductor de bits me quedé con la pregunta de hasta dónde se puede traducir un formato a otro, y con Contrapresión me di cuenta de que el teléfono, que usamos todos los días casi sin pensarlo, puede ser mucho más que una pantalla, y que diseñar cómo se controla algo también es diseñar cómo se siente usarlo.
-
-Documentar mis trabajos en una página web me hizo ordenar mi proceso. Elegir qué fotos mostrar, en qué orden y cómo describirlo me ayudó a entender qué es lo importante de cada pieza, y que es lo que quiero que la gente perciba de mis trabajos.
-
-### Reflexión sobre la creación de mi portafolio
-
-Crear un portafolio que tenga mi esencia fue más difícil de lo que pensé, me di cuenta de que no solo se trata solo de ordenar trabajos y elegir colores, sino de mirarme hacia adentro y preguntarme qué es lo que de verdad me gusta, qué me representa y qué quiero mostrar. En el camino probé muchas estéticas, paletas de colores y formas de presentarme, y en cada cambio tuve que revisar si eso era realmente yo o solo algo que se veía bien.
-
-Lo más complicado fue pensar en cómo me iban a ver los demás, quería que quien entrara pudiera conocer quién soy y viera a una persona confiable, capaz de lograr buenas cosas. Eso es aún más difícil, porque en cierta parte no es fácil creerse el cuento de que eres buena en lo que haces. Mostrar mis proyectos, contar cómo los hice y poner mi nombre en ellos me obligó a mirar mi trabajo con otros ojos y a reconocer lo que he logrado.
-
-También hubo desafíos más prácticos, mostrar mis trabajos sin que la página se viera sobrecargada me hizo pensar en qué necesita ver alguien primero, y por eso cada trabajo muestra solo su nombre hasta que lo eliges. Las librerías del que se recomendaron funcionaban casi todas con React, así que tuve que buscar una que pudiera usar a mi manera, y la encontré en Shaders.com. Y subir todo a GitHub me enseñó a tener paciencia y a ordenar mis carpetas, porque las fotos y videos pesaban demasiado y tuve que subirlos por partes.
+Lo más complicado fue pensar en cómo me iban a ver los demás. Quería que quien entrara pudiera conocer quién soy y viera a una persona confiable, capaz de lograr buenas cosas. Eso es aún más difícil, porque en cierta parte no es fácil creerse el cuento de que eres buena en lo que haces. Mostrar mis proyectos, contar cómo los hice y poner mi nombre en ellos me obligó a mirar mi trabajo con otros ojos y a reconocer lo que he logrado.
 
 Al final, el portafolio también terminó siendo un ejercicio personal. Me ayudó a ordenar lo que he hecho, a entender hacia dónde quiero ir y a confiar un poco más en lo que sé hacer.
-
----
-
-## 7. Uso de IA
-
-**Herramientas.** Claude, para programar la página y para armar en Figma la interactividad de cómo se ven los trabajos.
-
-Usé IA en dos partes.
-
-- **Programación.** Con Claude escribí y ajusté el HTML, CSS y JavaScript de la página según mis instrucciones.
-- **Figma.** Para armar la interactividad del prototipo, en cómo se ven y se abren los trabajos.
-
-Las decisiones de diseño fueron mías. Qué proyectos mostrar, los referentes, la paleta, la estética, qué se quedaba y qué se descartaba, y cada corrección pedida después de revisar el resultado.
-
-| Etapa | Qué le pedí | Qué me entregó | Qué decidí yo |
-|---|---|---|---|
-| Avatar pixel art <img width="220" height="537" alt="image" src="https://github.com/user-attachments/assets/15c69e48-91fe-4dc6-ba75-903ab6c47214" /> | Que me ayudara a crear mi avatar en pixel art a partir de mis fotos y a animarlo | Mi avatar dibujado en una grilla de píxeles, que respira, parpadea, mira hacia el cursor y saluda | Elegí las referencias y le pedí más detalle y sombras en la cara, el pelo y la ropa |
-| Página web | Escribir el HTML, CSS y JavaScript del portafolio según mis instrucciones | El código de la página | Revisé cada versión y pedí las correcciones |
-| Portada y secciones | Que al entrar se vea solo la portada y que trabajos y Sobre mí se abran con sus botones | Las secciones que se abren como páginas | Elegí esta organización, inspirada en el portafolio de mi compañero |
-| Fondos | Usar mis fotos de la playa y del tronco de fondo, con un filtro de mi paleta y opacidad baja | La playa pixelada en la portada y el tronco en trabajos | Elegí las fotos, la paleta y qué tan suaves se veían |
-| Lista de trabajos <img width="1180" height="767" alt="image" src="https://github.com/user-attachments/assets/c307643e-706f-4208-9139-76acece8f68a" /> | Adaptar el componente Skiper 53 para que al pasar el cursor por el nombre aparezca la foto | La lista que se abre con la foto y los filtros por categoría | Pedí que mostrara solo el nombre y la foto al pasar el cursor |
-| Fichas de los trabajos | Ordenar las fotos, descripciones y créditos de cada trabajo | Fichas con fotos de proceso, descripción, créditos y video | Escribí y corregí las descripciones, elegí las fotos y a quién acreditar |
-| Figma <img width="1151" height="492" alt="image" src="https://github.com/user-attachments/assets/fe112749-925a-4530-94cc-1699a496200e" /> | Armar la interactividad del prototipo | Prototipo con hover y navegación entre pantallas | Revisé que se viera igual que la página |
-| README | Ordenar y redactar este README | Estructura y redacción base | Revisé y cambié los textos para que sonaran a mí |
-
-#### IA para el avatar pixel art
-
-Le pedí a la IA que me ayudara a crear mi avatar en pixel art y a animarlo. Le entregué como referencia dos fotos mías (para la ropa y para la cara y el pelo) y ejemplos de personajes en pixel art.
-
-**Prompt utilizado.**
-
-> Necesito que actualices el código de mi portafolio aplicando exactamente las siguientes modificaciones de diseño e interactividad:
-
-> 1. **Personaje pixel art personalizado (avatar):** el personaje principal de la web debe ser un avatar en estilo pixel art que me represente fielmente con mis rasgos físicos (cabello largo negro, ojos, expresión) y mi ropa real (polera negra/malla y pantalones anchos o jeans oscuros, basándose en las referencias visuales).
-
-**Qué me entregó.**
-- Un código que dibuja el pixel art en una grilla y le agrega solo el contorno oscuro.
-- Mi avatar de pie (36 × 76 píxeles), que respira, parpadea, mira hacia el cursor, saluda y habla.
-- Después le pedí más detalle y sombras (cejas, nariz, labios en dos tonos, gargantilla, brillo en el pelo y pliegues en el pantalón).
-
-**Reflexión sobre el uso de IA.** Usar IA me ayudó a facilitar el proceso de crear mi portafolio, cuando tenía una idea, me servía para saber si lo que quería era posible de lograr en la página y cómo podía hacerlo, antes de invertir tiempo en algo que quizás no iba a funcionar. También me ayudó a organizarme, a ordenar los pasos y a no perderme entre tantos cambios. Lo que más me sirvió fue aprender a explicarme bien, porque para que el resultado fuera lo que yo imaginaba tenía que describir con claridad lo que quería, y eso me obligó a tener mis ideas más claras. Aun así, la IA no decidió por mí. Revisé cada versión, pedí corregir lo que no me representaba y muchas veces cambié lo que me proponía, porque al final el portafolio tenía que sentirse mío.
-
----
-
-### 8.Problemas y soluciones
-
-| Problema | Causa | Solución |
-|---|---|---|
-| El link de GitHub Pages mostraba una página en blanco con el README | Pages publicó primero el repositorio solo con README, antes de subir `index.html` | Subí `index.html` a la raíz y esperé el ✔ verde de Pages |
-| Después de subir cambios seguía viendo la versión antigua | El navegador guarda los archivos un tiempo | Recargué la página con Ctrl + F5 o la abrí en una ventana privada para ver la versión nueva |
-| Las imágenes salían cortadas o con franjas | La imagen se estiraba más que su caja y el panel tenía un ancho fijo | La imagen principal usa su propia proporción, y en el acordeón el panel abierto toma la forma de cada foto |
-| La imagen grande desapareció de todos los proyectos | Una regla ocultaba la portada si también estaba en la lista de proceso | La portada siempre se muestra en grande y se salta en la lista de proceso |
-| El título "trabajos" se cortaba en el celular | El tamaño de letra era fijo y más ancho que la pantalla | El tamaño se calcula según el ancho disponible |
-| GitHub no dejaba subir la carpeta `imagenes` | El navegador acepta máximo 100 archivos por subida | Saqué los videos a su propia carpeta para que `imagenes` quedara bajo 100 archivos |
-| "Commit failed, the file is too large" | Los videos juntos pesaban demasiado para una sola subida | Subí los videos en tandas, en la carpeta `videos portafolio/` |
-| Un video no se veía en Lámpara | Era un `.gif` y el reproductor de video solo acepta `.mp4` | La sección de video ahora muestra también GIF |
-| VS Code mostraba "1 problem" en `style.css` | `-webkit-line-clamp` sin su propiedad estándar | Agregué `line-clamp: 2;` |
-
