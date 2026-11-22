@@ -187,17 +187,7 @@ Importante recalcar que la IA fue un apoyo para agilizar el desarrollo: mientras
 
 ---
 
-## 5. Aprendizajes del semestre
-
-Este semestre aprendí que diseñar una interfaz se parece más a prototipar un objeto de lo que pensaba. En el pañol puedo probar, corregir y volver a cortar, y con el código pasó lo mismo: cada versión del portafolio fue un prototipo que tuve que mirar, usar y corregir. Pasar de Figma al código me obligó a pensar en cosas que en el diseño estático no aparecen, como qué pasa en el celular, cuánto demora en cargar una imagen o cómo se mueve un elemento cuando alguien lo toca.
-
-Con Multirealidades me di cuenta de que una misma cámara puede entender cosas muy distintas según cómo se programe, y que la tecnología nos deja ver información que nosotros solos no podríamos descifrar. Con Traductor de bits me quedé con la pregunta de hasta dónde se puede traducir un formato a otro, y con Contrapresión me di cuenta de que el teléfono, que usamos todos los días casi sin pensarlo, puede ser mucho más que una pantalla, y que diseñar cómo se controla algo también es diseñar cómo se siente usarlo.
-
-Documentar mis trabajos en una página web me hizo ordenar mi proceso. Elegir qué fotos mostrar, en qué orden y cómo describirlo me ayudó a entender qué es lo importante de cada pieza.
-
----
-
-## 6. Recursos y referentes visuales
+## 5. Recursos y referentes visuales
 
 ### Imágenes de proceso
 
@@ -227,6 +217,15 @@ Las fotos de proceso de cada trabajo están en la carpeta [imagenes](imagenes/),
 | Designeer | [designeer.xyz](https://designeer.xyz) | Consulta de referentes |
 | mesh3d | [mesh3d.gallery](https://mesh3d.gallery) | Consulta de referentes |
 | Google Fonts | [fonts.google.com](https://fonts.google.com) | Tipografías |
+
+---
+### 6. Aprendizajes del semestre
+
+Este semestre aprendí que diseñar una interfaz se parece más a prototipar un objeto de lo que pensaba. En el pañol puedo probar, corregir y volver a cortar, y con el código pasó lo mismo: cada versión del portafolio fue un prototipo que tuve que mirar, usar y corregir. Pasar de Figma al código me obligó a pensar en cosas que en el diseño estático no aparecen, como qué pasa en el celular, cuánto demora en cargar una imagen o cómo se mueve un elemento cuando alguien lo toca.
+
+Con Multirealidades me di cuenta de que una misma cámara puede entender cosas muy distintas según cómo se programe, y que la tecnología nos deja ver información que nosotros solos no podríamos descifrar. Con Traductor de bits me quedé con la pregunta de hasta dónde se puede traducir un formato a otro, y con Contrapresión me di cuenta de que el teléfono, que usamos todos los días casi sin pensarlo, puede ser mucho más que una pantalla, y que diseñar cómo se controla algo también es diseñar cómo se siente usarlo.
+
+Documentar mis trabajos en una página web me hizo ordenar mi proceso. Elegir qué fotos mostrar, en qué orden y cómo describirlo me ayudó a entender qué es lo importante de cada pieza.
 
 ---
 
