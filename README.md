@@ -66,7 +66,7 @@ El portafolio mezcla el **pixel art** con dos fotos mías que uso de fondo, una 
 
 Al entrar lo primero que se ve es la portada, con el título dinámico "hola, diseño para lo que se *usa / habita*", mi avatar y la playa pixelada de fondo. Desde ahí, el botón "ver trabajos" o el menú despliegan los **trabajos**, ordenados por categoría y por año, al pasar el cursor por el nombre de un proyecto aparece su foto, y al hacer clic se abre su ficha con proceso, descripción y videos. El botón "sobre mí" lleva a su propia página y el contacto está siempre al final de cada vista.
 
-Elegí las palabras **usa** y **habita** en el titulo porque resumen cómo entiendo mi trabajo:
+Elegí las palabras **usa** y **habita** en el título porque resumen cómo entiendo mi trabajo:
 - ***usa*.** El diseño como algo funcional, pensado para el uso diario, tanto en los objetos (el Comedero para Mascotas, el Banquito zapatero) como en las interfaces web.
 - ***habita*.** Los objetos y espacios donde se vive, como el mobiliario (la Chair Ele, la Banca estructural), y también las experiencias digitales donde uno entra y se queda.
 
@@ -126,29 +126,29 @@ Antes de llegar al diseño actual pasé por distintas versiones del portafolio q
 
 En el sitio, estos links aparecen como botones ("repositorio GitHub" y "ver experiencia") en la ficha de cada proyecto.
 
-Los trabajos están ordenados por **categoría** y, dentro de cada una, por **año** (del más reciente al más antiguo), igual que en mí página.
+Los trabajos están ordenados por **categoría** y, dentro de cada una, por **año** (del más reciente al más antiguo), igual que en mi página.
 
 | Nº | Categoría | Trabajo | Año | Con quién lo hice | ¿Tiene video? |
 |---|---|---|---|---|---|
-| 01 | Electrónica | Sin-te | 2026 | Camila Ramirez y Dayana Pañitrur · expuesto en INÉDITO Universitario, Design Week México 2026 ([publicación](https://www.instagram.com/p/DeecHSEESYF/)) | sí |
-| 02 | Electrónica | Tostadora inestable | 2026 | Dayana Pañitrur, Carla Pino Barrios y Camila Ramirez | sí |
-| 03 | Web | Multirealidades | 2026 | Dayana Pañitrur · proyecto original de Felipe Roa | sí |
-| 04 | Web | Traductor de bits | 2026 | Camila Ramirez | sí |
-| 05 | Web | Contrapresión | 2026 | Dayana Pañitrur | sí |
-| 06 | Web | Diseño Abierto | 2026 | Belén Castillo y Horacio García | no |
-| 07 | Diseño de objetos | Banquito zapatero | 2025 | Dayana Pañitrur | no |
+| 01 | Electrónica | Sin-te | 2026 | [Camila Ramirez](https://github.com/Estrabismx) y [Dayana Pañitrur](https://github.com/dayanapanitrur) · expuesto en INÉDITO Universitario, Design Week México 2026 ([publicación](https://www.instagram.com/p/DeecHSEESYF/) · [noticia UDP](https://faad.udp.cl/escuela-de-diseno-udp-participa-en-inedito-universitario-de-design-week-mexico-2026/)) | sí |
+| 02 | Electrónica | Tostadora inestable | 2026 | [Dayana Pañitrur](https://github.com/dayanapanitrur), [Carla Pino Barrios](https://github.com/Coff4) y [Camila Ramirez](https://github.com/Estrabismx) | sí |
+| 03 | Web | Multirealidades | 2026 | [Dayana Pañitrur](https://github.com/dayanapanitrur) · proyecto original de [Felipe Roa](https://github.com/fefeliperoar) | sí |
+| 04 | Web | Traductor de bits | 2026 | [Camila Ramirez](https://github.com/Estrabismx) | sí |
+| 05 | Web | Contrapresión | 2026 | [Dayana Pañitrur](https://github.com/dayanapanitrur) | sí |
+| 06 | Web | Diseño Abierto | 2026 | [Belén Castillo](https://github.com/bombobby) y [Horacio García](https://github.com/horaciogarcia-cell) | no |
+| 07 | Diseño de objetos | Banquito zapatero | 2025 | [Dayana Pañitrur](https://github.com/dayanapanitrur) | no |
 | 08 | Diseño de objetos | Chair Ele | 2025 | Sola · réplica de una silla de Ann Demeulemeester | sí |
-| 09 | Diseño de objetos | Banca estructural | 2025 | Camila Ramirez, Dayana Pañitrur y Jiamin Huang | no |
-| 10 | Diseño de objetos | Mimus Thenca | 2025 | Camila Ramirez, Dayana Pañitrur y Jiamin Huang | sí |
+| 09 | Diseño de objetos | Banca estructural | 2025 | [Camila Ramirez](https://github.com/Estrabismx), [Dayana Pañitrur](https://github.com/dayanapanitrur) y [Jiamin Huang](https://github.com/jiamin-huang-wu) | no |
+| 10 | Diseño de objetos | Mimus Thenca | 2025 | [Camila Ramirez](https://github.com/Estrabismx), [Dayana Pañitrur](https://github.com/dayanapanitrur) y [Jiamin Huang](https://github.com/jiamin-huang-wu) | sí |
 | 11 | Diseño de objetos | Comedero para Mascotas | 2025 | Sola | no |
-| 12 | Diseño de objetos | Lámpara | 2025 | Camila Ramirez, Dayana Pañitrur y Jiamin Huang | sí |
+| 12 | Diseño de objetos | Lámpara | 2025 | [Camila Ramirez](https://github.com/Estrabismx), [Dayana Pañitrur](https://github.com/dayanapanitrur) y [Jiamin Huang](https://github.com/jiamin-huang-wu) | sí |
 
 **Breve descripción de cada proyecto**
 
 - **Sin-te.** Un sintetizador modular que hicimos en el taller de máquinas electrónicas, seleccionado para exponerse en INÉDITO Universitario, en Design Week México 2026.
 - **Tostadora inestable.** Un sintetizador modular hecho con cuatro chips (555, 4017, 4093 y 386), cada uno en su propia caja de cartón cortada en láser.
 - **Multirealidades.** Página web de arte y tecnología con estética Y2K / Windows XP que explora cómo la presencia y el movimiento del cuerpo pueden alterar la realidad digital a través de la cámara web. Combina tres sistemas simultáneos: OpenCV (movimiento y quietud), MediaPipe (manos y gestos) y Three.js (modelo 3D hecho en Blender).
-- **Traductor de bits.** Página web que traduce cualquier fotografía en sonido en tiempo real según el brillo, el color y la distribución de sus píeles. El sonido se puede descargar y volver a subir para generar una imagen a partir de él, y así sucesivamente. Se controla con la mano mediante MediaPipe o con un controlador MIDI, y su estética toma los menús de la Nintendo Wii.
+- **Traductor de bits.** Página web que traduce cualquier fotografía en sonido en tiempo real según el brillo, el color y la distribución de sus píxeles. El sonido se puede descargar y volver a subir para generar una imagen a partir de él, y así sucesivamente. Se controla con la mano mediante MediaPipe o con un controlador MIDI, y su estética toma los menús de la Nintendo Wii.
 - **Contrapresión.** Juego web que usa el teléfono como mando (de 2 a 4 teléfonos y una pantalla compartida, conectados por MQTT). No se puede jugar de a una persona, siempre hay un POC y al menos un ciudadano. Tres ciudadanos corren por la Alameda perseguidos por el carro lanzaaguas del POC, una institución ficticia; solo los tres escudos juntos detienen el chorro.
 - **Diseño Abierto.** Página web de una sola página para Diseño Abierto 2026, la muestra de fin de año de la Escuela de Diseño UDP. Muestra qué es la muestra, los proyectos de cada mención con sus ramos y estudiantes, y la ubicación y los horarios. La diseñamos primero en Figma y tiene un botón "VISÍTANOS" que se expande y un menú lateral para el celular. La hice para la Solemne 2 de Interfaces Web, no para este curso.
 - **Banquito zapatero.** Un banco de entrada que también guarda zapatos, con asiento acolchado y dos niveles de estantes.
@@ -287,6 +287,7 @@ Importante recalcar que no programé todo sola, me fui apoyando en la IA durante
   * **Prompt 2.** "Arma la interactividad de la fila del índice de los trabajos: que al pasar el cursor se abra y muestre la foto del trabajo, con hover en botones y links y navegación entre pantallas."
 
 ( Aclaración: Los prompts están resumidos para facilitar la lectura, ya que el registro completo de pruebas y ajustes sería demasiado extenso.)
+
 ---
 
 ## 7. Desafíos y créditos
@@ -362,16 +363,15 @@ Este portafolio no usa sonidos. Los sonidos de *Contrapresión* y de *Traductor 
 
 ### Principales aprendizajes
 Antes de iniciar este semestre pensaba que la web era algo que solo se miraba en una pantalla y se usaba con el mouse, muy lejos de lo que hacía en mis primeros años y de lo que estaba acostumbrada a diseñar. Después de desarrollar los distintos trabajos del curso me fui dando cuenta de que no es así, una página también se puede sentir, puede responder a un gesto o a un teléfono en la mano, y cambiar según quién la use. Entendí que diseñar una interfaz también es diseñar una experiencia, y que lo importante no es solo que funcione, sino que la otra persona la entienda y quiera usarla.
-### Reflexión sobre el uso de IA
 
 ### Reflexión sobre el uso de IA
 
-Usar IA me ayudó a facilitar el proceso de crear mi portafolio, cuando tenía una idea, me ayudo para saber si lo que quería era posible de lograr y cómo podía hacerlo, antes de invertir tiempo en algo que quizás no iba a funcionar. También me ayudó a organizarme, a ordenar los pasos y a no perderme entre tantos cambios. Lo que más me sirvió fue aprender a explicarme bien, porque para que el resultado fuera lo que yo imaginaba tenía que describir con claridad lo que quería, y eso me obligó a tener mis ideas más claras. Aun así, la IA no decidió por mí, revisé cada versión, pedí corregir lo que no me representaba y muchas veces cambié lo que me proponía, porque al final el portafolio tenía que sentirse mío.
+Usar IA me ayudó a facilitar el proceso de crear mi portafolio, cuando tenía una idea, me ayudó para saber si lo que quería era posible de lograr y cómo podía hacerlo, antes de invertir tiempo en algo que quizás no iba a funcionar. También me ayudó a organizarme, a ordenar los pasos y a no perderme entre tantos cambios. Lo que más me sirvió fue aprender a explicarme bien, porque para que el resultado fuera lo que yo imaginaba tenía que describir con claridad lo que quería, y eso me obligó a tener mis ideas más claras. Aun así, la IA no decidió por mí, revisé cada versión, pedí corregir lo que no me representaba y muchas veces cambié lo que me proponía, porque al final el portafolio tenía que sentirse mío.
 
 ### Reflexión sobre la creación de mi portafolio
 
 Crear un portafolio que tenga mi esencia fue más difícil de lo que pensé, no solo era ordenar trabajos y elegir colores, sino de mirarme hacia adentro y preguntarme qué es lo que de verdad me gusta, qué me representa y qué quiero mostrar. En este proceso probé diferentes estéticas, paletas y formas de presentarme, y en cada cambio tuve que revisar si eso era realmente yo o solo algo que se veía bien.
 
-Lo más complicado fue pensar en cómo me iban a ver los demás, quería que quien entrara pudiera conocer quién soy y viera a una persona confiable, capaz de lograr buenas cosas, y eso fue aún más difícil, porque en cierta parte no es fácil creerse el cuento de que eres buena en lo que haces. Mostrar mis proyectos, contar cómo los hice y poner mi nombre en ellos me obligó a mirar lo que eh hecho con otros ojos y a reconocer lo que he logrado. En ese proceso también fue muy importante contar con un ojo externo, mostrar mi avance y recibir críticas constructivas me ayudó a detectar detalles que yo por estar tan metida en el diseño no veía, y a entender qué podía corregir o mejorar para que se entendiera mejor.
+Lo más complicado fue pensar en cómo me iban a ver los demás, quería que quien entrara pudiera conocer quién soy y viera a una persona confiable, capaz de lograr buenas cosas, y eso fue aún más difícil, porque en cierta parte no es fácil creerse el cuento de que eres buena en lo que haces. Mostrar mis proyectos, contar cómo los hice y poner mi nombre en ellos me obligó a mirar lo que he hecho con otros ojos y a reconocer lo que he logrado. En ese proceso también fue muy importante contar con un ojo externo, mostrar mi avance y recibir críticas constructivas me ayudó a detectar detalles que yo por estar tan metida en el diseño no veía, y a entender qué podía corregir o mejorar para que se entendiera mejor.
 
-Al final, el portafolio terminó siendo un ejercicio personal, me ayudó a entender hacia dónde me gustaria ir y a confiar un poco más en lo que sé hacer.
+Al final, el portafolio terminó siendo un ejercicio personal, me ayudó a entender hacia dónde me gustaría ir y a confiar un poco más en lo que sé hacer.
