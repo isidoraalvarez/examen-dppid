@@ -100,6 +100,7 @@ Antes de llegar al diseño actual pasé por distintas versiones del portafolio q
 | **Lista de trabajos limpia con filtros y panel sobre el índice** | Cada trabajo muestra solo su nombre hasta pasar el cursor (evitando saturar con 12 proyectos), se puede filtrar por categoría y se abre en un panel sobre el índice para volver sin perder el lugar. |
 | **Avatar en pixel art y detalle de naturaleza** | El avatar me presenta con mis rasgos y mi ropa sin usar una foto, y detrás de trabajos y del pie de página agregué un árbol pixelado suave de fondo. |
 | **Fotos de proceso completas y diseño responsive** | Cada imagen mantiene su propia proporción sin recortes y todo el sitio se adapta al celular sin scroll lateral. |
+| **Botón "¿tienes una idea? hablemos" en contacto** | Aparece solo al ir a contacto y da tres formas de escribirme: Gmail, Instagram o copiar mi correo, para que sea fácil contactarme aunque no se tenga un programa de correo instalado. |
 
 ### Cómo se ve
 
