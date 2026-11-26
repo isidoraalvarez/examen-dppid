@@ -298,7 +298,7 @@ Mostrar mis trabajos sin que la página se viera sobrecargada me hizo pensar en 
 
 | Problema | Causa | Solución |
 |---|---|---|
-| El link de GitHub Pages mostraba una página en blanco con el README | Pages publicó primero el repositorio solo con README, antes de subir `index.html` | Subí `index.html` a la raíz y esperé el ✔ verde de Pages |
+| El link de GitHub Pages mostraba una página en blanco con el README | Pages publicó primero el repositorio solo con README, antes de subir `index.html` | Subí `index.html` a la raíz y esperé el ticket verde de Pages |
 | Después de subir cambios seguía viendo la versión antigua | El navegador guarda los archivos un tiempo (caché) | Recargué con Ctrl + F5 o abrí la página en una ventana privada |
 | Las imágenes salían cortadas o con franjas | La imagen se estiraba más que su marco y el panel tenía un ancho fijo | Ajusté el código para que la foto principal mantenga su propia proporción y para que, en el acordeón, el panel abierto tome la forma de cada foto |
 | La imagen grande desapareció de todos los proyectos | Una regla de mi código ocultaba la portada si también figuraba en la lista de proceso | La portada va primero en el acordeón y se salta en la lista de proceso |
